@@ -1,4 +1,4 @@
-package com.artandshare.api.model;
+package com.artandshare.api.users.model;
 
 
 import jakarta.persistence.Column;

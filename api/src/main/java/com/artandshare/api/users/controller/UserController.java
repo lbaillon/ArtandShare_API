@@ -1,12 +1,12 @@
-package com.artandshare.api.controller;
+package com.artandshare.api.users.controller;
 
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.artandshare.api.model.User;
-import com.artandshare.api.service.UserService;
+import com.artandshare.api.users.model.User;
+import com.artandshare.api.users.service.UserService;
 
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;

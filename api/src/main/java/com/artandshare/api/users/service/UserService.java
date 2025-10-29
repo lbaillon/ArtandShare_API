@@ -1,12 +1,12 @@
-package com.artandshare.api.service;
+package com.artandshare.api.users.service;
 
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.artandshare.api.model.User;
-import com.artandshare.api.repository.UserRepository;
+import com.artandshare.api.users.model.User;
+import com.artandshare.api.users.repository.UserRepository;
 
 import lombok.Data;
 
