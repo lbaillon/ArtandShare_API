@@ -27,7 +27,7 @@ public class UserController {
     return userService.getUsers();
   }
 
-  @GetMapping("/user/{id}")
+  @GetMapping("/users/{id}")
   public User getUser(@PathVariable("id") final long id){
     Optional<User> user = userService.getUser(id);
     if(user.isPresent()){
@@ -37,12 +37,12 @@ public class UserController {
     }
   }
 
-  @PostMapping("/user")
+  @PostMapping("/users")
   public User creatUser(@RequestBody User user){
     return userService.saveUser(user);
   }
 
-  @DeleteMapping("/user/{id}")
+  @DeleteMapping("/users/{id}")
   public void deleteUser(@PathVariable("id") final long id){
     userService.deleteUser(id);
   }
