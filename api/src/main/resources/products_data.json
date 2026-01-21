@@ -1,0 +1,362 @@
+[
+    {
+        "title": "A family portrait",
+        "artist": {
+            "id": 1
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Duis euismod sapien at diam sagittis, vel vulputate sapien faucibus. Integer ultricies, tortor id tincidunt placerat, ante metus blandit metus, eget commodo arcu lorem nec lacus.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509426/addams_zixngo.jpg ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509425/addams2_bp8rsc.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509425/addams3_pnvqjs.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509427/addams4_ikbzlj.png "
+        ],
+        "theme": "Addams",
+        "type": "painting",
+        "value": 1764.2,
+        "purchaseOption": true,
+        "available": true
+    },
+    {
+        "title": "Fighting a Balrog",
+        "artist": {
+            "id": 1
+        },
+        "description": "Curabitur pretium, neque sed malesuada tempor, lorem felis posuere lorem, id scelerisque nunc orci sit amet turpis. Donec quis justo id magna fermentum porttitor sed nec metus.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509579/balrog_akisft.jpg ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509580/balrog2_yxpacp.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509582/balrog3_s5at4q.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509584/balrog4_qgdxe6.png "
+        ],
+        "theme": "The Lord of the rings",
+        "type": "painting",
+        "value": 715.1,
+        "purchaseOption": true,
+        "available": true
+    },
+    {
+        "title": "Young Bulbazor",
+        "artist": {
+            "id": 5
+        },
+        "description": "Vivamus congue sem non lectus gravida laoreet. In posuere ac lacus vel porta. Suspendisse sed felis urna. Mauris ac dapibus justo. Duis euismod ligula sit amet lorem finibus feugiat.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509586/bulbi_suzzzb.jpg ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509588/bulbi2_rrlmzc.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509590/bulbi3_i9tx7g.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509591/bulbi4_xcabbj.png "
+        ],
+        "theme": "Pokemon",
+        "type": "painting",
+        "value": 894.9,
+        "purchaseOption": false,
+        "available": true
+    },
+    {
+        "title": "A steak for the dark side",
+        "artist": {
+            "id": 5
+        },
+        "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec at dui id nunc porttitor iaculis. Maecenas porta augue ac enim blandit posuere.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509593/cooking_vador_hdgbku.jpg ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509595/cooking_vador2_idho22.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509596/cooking_vador3_fx2a94.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509598/cooking_vador4_b4uude.png "
+        ],
+        "theme": "Starwars",
+        "type": "painting",
+        "value": 1896.7,
+        "purchaseOption": false,
+        "available": true
+    },
+    {
+        "title": "Sundays cooking",
+        "artist": {
+            "id": 4
+        },
+        "description": "Sed tristique, justo sit amet accumsan tristique, lorem velit tincidunt turpis, in feugiat enim nunc a risus. Praesent condimentum interdum erat, ut dictum risus posuere et.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509604/cooking_vador_bis_idpftv.jpg ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509603/cooking_vador_bis_4_h3vrg2.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509599/cooking_vador_bis_2_tzqtnr.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509601/cooking_vador_bis_3_ytsbxr.png "
+        ],
+        "theme": "Starwars",
+        "type": "painting",
+        "value": 642.1,
+        "purchaseOption": true,
+        "available": true
+    },
+    {
+        "title": "The Idol",
+        "artist": {
+            "id": 7
+        },
+        "description": "Donec id purus nec ante tincidunt facilisis. Phasellus a justo viverra, rhoncus lacus quis, tincidunt eros. Suspendisse sodales cursus lacus, eget vehicula magna condimentum a.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509485/cthulhu_tt70dn.jpg ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509486/Group_61_swncui.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509487/image_36_ozbqxd.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509489/image_37_d5yh2u.png "
+        ],
+        "theme": "Lovecraft",
+        "type": "sculpture",
+        "value": 1711.6,
+        "purchaseOption": true,
+        "available": true
+    },
+    {
+        "title": "Need a sock",
+        "artist": {
+            "id": 4
+        },
+        "description": "Morbi euismod mi nec neque imperdiet, in blandit sapien dapibus. Duis tincidunt sapien id ex cursus, non hendrerit urna tincidunt. Fusce a gravida erat, ac aliquam nisi.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509490/doby_b7fhta.jpg ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509492/Group_53_qhjab4.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509493/image_38_u3ahd4.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509494/image_39_swicsa.png "
+        ],
+        "theme": "Harry Potter",
+        "type": "painting",
+        "value": 951.2,
+        "purchaseOption": true,
+        "available": true
+    },
+    {
+        "title": "Great old man",
+        "artist": {
+            "id": 1
+        },
+        "description": "Quisque sit amet arcu eget lacus malesuada euismod. In venenatis, mi et dignissim varius, ex leo vulputate elit, vitae ultrices ipsum est sit amet est.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509496/gandalf_nj1qxs.jpg ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509497/Group_54_z3p59p.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509498/image_40_dcv1rw.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509500/image_41_i8wuxr.png "
+        ],
+        "theme": "The Lord of the rings",
+        "type": "painting",
+        "value": 1354.8,
+        "purchaseOption": false,
+        "available": true
+    },
+    {
+        "title": "The creepy guy",
+        "artist": {
+            "id": 1
+        },
+        "description": "Aliquam erat volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer accumsan, sapien vitae bibendum dignissim, justo nisl vehicula mauris, non ultrices nibh diam at magna.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509502/gollum_1_nyn0r9.jpg ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509502/Group_55_kk2zjr.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509505/image_43_xffqqe.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509504/image_42_t5ot5a.png "
+        ],
+        "theme": "The Lord of the rings",
+        "type": "painting",
+        "value": 167.1,
+        "purchaseOption": true,
+        "available": true
+    },
+    {
+        "title": "We are sad my precious",
+        "artist": {
+            "id": 3
+        },
+        "description": "Nunc lacinia efficitur elit, in finibus mauris. Sed tincidunt, orci sit amet ullamcorper viverra, nibh elit feugiat lectus, ac pulvinar risus libero vel ligula.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509507/gollum_sculp_jpowvo.jpg ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509509/Group_62_kxeqau.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509510/image_45_jiios4.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509512/image_46_b68u4h.png "
+        ],
+        "theme": "The Lord of the rings",
+        "type": "sculpture",
+        "value": 1853.0,
+        "purchaseOption": true,
+        "available": true
+    },
+    {
+        "title": "The colour of youth",
+        "artist": {
+            "id": 2
+        },
+        "description": "Mauris convallis, felis a imperdiet venenatis, sapien neque tristique justo, at efficitur elit nulla vitae est. Sed ornare vel justo at cursus.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509512/grogu1_pdwnsw.jpg ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509514/Group_56_azhxg3.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509516/image_48_xzol2j.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509515/image_47_sn6jkz.png "
+        ],
+        "theme": "Starwars",
+        "type": "painting",
+        "value": 922.0,
+        "purchaseOption": true,
+        "available": true
+    },
+    {
+        "title": "A waited letter",
+        "artist": {
+            "id": 6
+        },
+        "description": "In congue, nunc eget feugiat bibendum, ipsum lacus bibendum augue, sed gravida augue sapien eget est. Etiam feugiat risus nec libero bibendum, in faucibus metus malesuada.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509520/hp1_rikbsl.jpg ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509518/Group_57_qpxcuh.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509523/image_50_gsigip.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509521/image_49_qynrrl.png "
+        ],
+        "theme": "Harry Potter",
+        "type": "painting",
+        "value": 1582.9,
+        "purchaseOption": false,
+        "available": true
+    },
+    {
+        "title": "The great Jack",
+        "artist": {
+            "id": 2
+        },
+        "description": "Donec a tortor justo. Maecenas malesuada, elit a accumsan accumsan, risus turpis interdum nulla, ut tempus eros sapien non libero. Vestibulum ante ipsum primis in faucibus orci luctus.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509529/jack1_goexob.jpg ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509524/Group_58_citjso.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509526/image_51_fewpeb.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509527/image_52_h8c60o.png "
+        ],
+        "theme": "Nihtmare before Christmas",
+        "type": "painting",
+        "value": 198.6,
+        "purchaseOption": true,
+        "available": true
+    },
+    {
+        "title": "The messy artist",
+        "artist": {
+            "id": 2
+        },
+        "description": "Curabitur in facilisis mi. Suspendisse fringilla ligula eu nisl efficitur, nec finibus ipsum dapibus. Nam vehicula, diam vitae placerat imperdiet, lorem velit dignissim urna, vitae luctus velit metus nec leo.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509535/kirby_ejzk5g.jpg ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509530/Group_59_w1zidx.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509533/image_54_wf8ceg.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509532/image_53_up6kbk.png "
+        ],
+        "theme": "Nintendo",
+        "type": "painting",
+        "value": 1939.4,
+        "purchaseOption": true,
+        "available": true
+    },
+    {
+        "title": "Do I need mushrooms?",
+        "artist": {
+            "id": 4
+        },
+        "description": "Phasellus pretium turpis et ex fermentum posuere. Pellentesque vehicula risus in tempor convallis. Etiam facilisis rhoncus urna, sit amet convallis orci ultricies et.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509541/mario_cgbgy7.jpg ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509536/Group_63_korfil.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509539/image_56_v7etpz.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509538/image_55_hz8jdr.png "
+        ],
+        "theme": "Nintendo",
+        "type": "painting",
+        "value": 537.7,
+        "purchaseOption": true,
+        "available": true
+    },
+    {
+        "title": "A joyful girl",
+        "artist": {
+            "id": 2
+        },
+        "description": "Cras a velit ac purus bibendum tempus. Vestibulum commodo leo id lacus pharetra, at luctus lorem rhoncus. Nunc varius fermentum mi, ac finibus enim convallis ac.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509547/mercredi_jywh2b.jpg ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509542/Group_64_q1reko.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509545/image_58_vhixoc.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509544/image_57_qfjmbr.png "
+        ],
+        "theme": "Addams",
+        "type": "painting",
+        "value": 1427.5,
+        "purchaseOption": true,
+        "available": true
+    },
+    {
+        "title": "Spyro has grown",
+        "artist": {
+            "id": 5
+        },
+        "description": "Vestibulum mattis velit non mi commodo, at dictum ex ultricies. Integer non pharetra mi, vitae finibus ante. In eu orci vel justo elementum varius nec non orci.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509553/spyro_csqvxz.webp ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509548/Group_65_hibp9g.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509552/image_60_y49i2l.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509550/image_59_ounjvw.png "
+        ],
+        "theme": "Nintendo",
+        "type": "painting",
+        "value": 962.8,
+        "purchaseOption": false,
+        "available": true
+    },
+    {
+        "title": "I am not Groot!",
+        "artist": {
+            "id": 2
+        },
+        "description": "Nam luctus, nisl ac lacinia porttitor, lorem nisi aliquam nulla, vitae iaculis justo augue in nunc. Donec sit amet eros nec elit ullamcorper luctus quis ut augue.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509559/tableau-deco-groot-gardiens-de-la-galaxie-marvel-01_scvexu.jpg ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509554/Group_66_ljvpcx.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509557/image_62_zmjybi.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509556/image_61_pxcb5g.png "
+        ],
+        "theme": "Marvel",
+        "type": "painting",
+        "value": 312.4,
+        "purchaseOption": true,
+        "available": true
+    },
+    {
+        "title": "Dont be hasty",
+        "artist": {
+            "id": 3
+        },
+        "description": "Praesent sagittis libero ac orci tincidunt tincidunt. Cras sodales ultricies tortor, ut dignissim justo condimentum at. Vivamus ultricies, leo vitae dapibus faucibus, odio justo posuere urna, nec gravida urna libero sed ex.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509564/il_1588xN.7260663012_a41s_hrav0g.webp ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509560/Group_67_lxclvg.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509567/il_1588xN.7308607421_1ulm_payrws.webp ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509571/il_1588xN.7308607439_byls_skugdt.webp "
+        ],
+        "theme": "The Lord of the rings",
+        "type": "sculpture",
+        "value": 875.3,
+        "purchaseOption": true,
+        "available": true
+    },
+    {
+        "title": "Fighting together",
+        "artist": {
+            "id": 5
+        },
+        "description": "Ut accumsan orci vitae magna vehicula, ac vestibulum turpis bibendum. Sed gravida neque vel turpis vulputate, in tempor metus imperdiet. Integer dignissim, sem sed commodo accumsan, ante felis laoreet felis, id convallis justo magna id orci.",
+        "photos": [
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509578/zelda_enyqiv.webp ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509571/Group_68_opq7ev.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509575/image_65_htsi0w.png ",
+            "https://res.cloudinary.com/djvbcdtwl/image/upload/v1762509574/image_64_dpiluu.png "
+        ],
+        "theme": "Zelda",
+        "type": "painting",
+        "value": 1789.8,
+        "purchaseOption": true,
+        "available": true
+    }
+]

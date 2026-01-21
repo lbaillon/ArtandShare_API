@@ -28,7 +28,7 @@ public class UserController {
   }
 
   @GetMapping("/users/{id}")
-  public User getUser(@PathVariable("id") final long id){
+  public User getUser(@PathVariable("id") final String id){
     Optional<User> user = userService.getUser(id);
     if(user.isPresent()){
       return user.get();
@@ -43,7 +43,7 @@ public class UserController {
   }
 
   @DeleteMapping("/users/{id}")
-  public void deleteUser(@PathVariable("id") final long id){
+  public void deleteUser(@PathVariable("id") final String id){
     userService.deleteUser(id);
   }
 

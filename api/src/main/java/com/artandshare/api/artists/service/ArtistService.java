@@ -27,6 +27,9 @@ public class ArtistService {
   }
 
   public Artist saveArtist(Artist artist){
+    if(artist==null){
+      throw new RuntimeException("Artist must not be null");
+    }
     Artist savedArtist = artistRepository.save(artist);
     return savedArtist;
   }

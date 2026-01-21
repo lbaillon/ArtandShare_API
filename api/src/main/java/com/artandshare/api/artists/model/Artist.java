@@ -1,9 +1,17 @@
 package com.artandshare.api.artists.model;
 
+import java.util.List;
+
+import com.artandshare.api.products.model.Product;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+import jakarta.persistence.CascadeType;
+import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 import lombok.Data;
 
@@ -19,7 +27,11 @@ public class Artist {
 
     private String name;
 
+    @Column(length = 2000)
     private String biography;
 
-    //a rajouter Array[CE] oeuvres de l'artiste
+    @OneToMany(mappedBy = "artist", cascade = CascadeType.ALL)
+    @JsonIgnoreProperties("artist")
+    private List<Product> products;
+
 }

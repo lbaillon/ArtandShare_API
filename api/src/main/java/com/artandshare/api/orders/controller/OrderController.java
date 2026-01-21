@@ -41,5 +41,6 @@ public class OrderController {
   @DeleteMapping("/orders/{id}")
   public void deleteOrder(@PathVariable("id") final long id){
     orderService.deleteOrder(id);
+    System.out.println("Order succesfully deleted");
   }
 }
